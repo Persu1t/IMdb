@@ -21,7 +21,7 @@ function fetchInputValue(e) {
 
 // Function to fetch movie details from the API
 function fetchSearchedMovie(searchedValue) {
-  let searchedMovie = fetch(`http://www.omdbapi.com/?t=${searchedValue}&apikey=bd683a32`)
+  let searchedMovie = fetch(`https://www.omdbapi.com/?t=${searchedValue}&apikey=bd683a32`)
   searchedMovie.then((response) => {
     return response.json()
   }).then((value) => {
