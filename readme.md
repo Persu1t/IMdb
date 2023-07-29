@@ -1,8 +1,8 @@
-### IMDb clone
+# IMDb clone
 
 This is a simple web application that allows users to search for movies using the OMDb API and add their favorite movies to a local storage-based favorites list. The app is built using vanilla JavaScript, HTML, and CSS.
 
-
+## project live link : https://mellifluous-cascaron-f582d5.netlify.app/
 ## Features
 
 Movie Search: Users can enter the name of a movie in the search box, and the app will fetch and display the movie details from the OMDb API.
