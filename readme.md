@@ -1,4 +1,4 @@
-### IMDb clone
+# IMDb clone
 
 This is a simple web application that allows users to search for movies using the OMDb API and add their favorite movies to a local storage-based favorites list. The app is built using vanilla JavaScript, HTML, and CSS.
 
