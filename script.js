@@ -1,3 +1,4 @@
+// for any query please contact me 8433489789
 // Get references to DOM elements
 let searchBox = document.querySelector("#search-box")
 let searchedMovieDisplay = document.querySelector("#searched-movie-display")
